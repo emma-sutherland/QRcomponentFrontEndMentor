@@ -1,0 +1,48 @@
+/* <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+<!-- <style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style> --> */
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.card {
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 30%;
+  /* maybe change width for mobile? */
+  border-radius: 10px;
+  padding: 20px;
+  vertical-align: middle;
+
+}
+
+img {
+  border-radius: 10px;
+  width: 100%;
+  align-items: center;
+  width: 100%; 
+}
+
+h4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+}
+
+.attribution {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 20px;
+
+}
+

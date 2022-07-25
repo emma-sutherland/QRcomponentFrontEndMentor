@@ -19,6 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+This is my first Frontend Mentor Challenge so I'm using this readme as a checklist for future challenges.
+
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -37,6 +39,15 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+1. Initialize as a public repository on [GitHub].  
+2. Configure repo to publish code to a web address (?)
+3. Look at designs, considered what CSS classes can be used (to create resusable styles).
+4. Write HTML to structure content.
+5. Make a list of base styles, including general content styles, such as `font-family` and `font-size`.
+6. Start adding styles to the top of the page and work down. 
+7. Write custom README
+8. Deploy solution for deployment practice
 
 ### Built with
 
